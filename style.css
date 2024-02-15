@@ -1,0 +1,29 @@
+.card{
+    padding: 10px;
+}
+ 
+body{
+    line-height:2rem;
+    box-sizing: border-box;
+    text-align: center;
+} 
+img{
+    border-radius: .5rem;
+}
+.col{
+     border: 1px solid black;
+      
+}
+.card{
+    box-shadow: 2px 2px 4px 2px rgba(0, 0, 0, 0.3);
+    height: 100%;
+    margin: 10px;
+}
+.card .card-body{
+    overflow: auto;
+}
+.card-container{
+margin-bottom: 1rem;
+}
+
+ 
